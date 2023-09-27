@@ -36,7 +36,17 @@ This Flutter project demonstrates how to use the GetX package for state manageme
    
    ![Screenshot 1](Screenshots/viewallstudents.png)
    
-3. Add a student.
+2. Add a student.
 
-   ![Screenshot 1](Screenshots/viewallstudents.png)
+   ![Screenshot 1](Screenshots/addingstudent.png)
+
+3. Showing snackbar on success.
+   
+   ![Screenshot 1](Screenshots/succresssnackbar.png)
+
+4. After adding new student.
+
+   ![Screenshot 1](Screenshots/afteraddingnewstudent.png)
+   
+   
    

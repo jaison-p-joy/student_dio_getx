@@ -33,6 +33,10 @@ This Flutter project demonstrates how to use the GetX package for state manageme
 ## Screenshots
 
 1. View all students.
-   ![Screenshot 1](./screenshots/screenshot1.png)
+   
+   ![Screenshot 1](Screenshots/viewallstudents.png)
+   
+3. Add a student.
 
+   ![Screenshot 1](Screenshots/viewallstudents.png)
    

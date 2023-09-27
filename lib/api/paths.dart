@@ -1,2 +1,2 @@
-String baseUrl = "https://650967fbf6553137159b5f14.mockapi.io";
-String studentEndpoint = "/student";
+String baseUrl = "YOUR BASE URL";
+String studentEndpoint = "/student"; // YOUR END POINT
